@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * Servlet implementation class WeJungeunServlet
  */
-@WebServlet("/hello")
+@WebServlet("/world")
 public class WeJungeunServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
@@ -21,7 +21,7 @@ public class WeJungeunServlet extends HttpServlet {
 		response.getWriter()
 		.append("Served at: ")
 		.append(request.getContextPath())
-		.append("sqhkel이 /hello에 응답했습니다.");
+		.append("jungeun이 /world에 응답했습니다.");
 	}
 
 }
