@@ -5,6 +5,7 @@
 <head>
 <meta charset="EUC-KR">
 <title>We App</title>
+<link rel="stylesheet" href="/css/style.css"/>
 </head>
 <body>
 	<h1>We App</h1>
