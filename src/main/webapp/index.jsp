@@ -7,7 +7,8 @@
 <title>We App</title>
 </head>
 <body>
-			<h1>We App</h1>
+	<h1>We App</h1>
+	<h2>jungeun</h2>		
 			
 </body>
 </html>
